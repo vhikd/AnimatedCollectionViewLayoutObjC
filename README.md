@@ -7,6 +7,47 @@ This Layout was written by Object-C base on the >[AnimatedCollectionViewLayout](
 
 **This layout just work with `UICollectionViewScrollDirectionHorizontal`.**
 
+# Demo
+
+<table>
+<tr>
+<th>Parallax</th>
+<th>ZoomInOut</th>
+<th>RotateInOut</th>
+<th>Cards</th>
+</tr>
+<tr>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/ParallaxAttributesAnimator.gif"/></td>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/ZoomInOutAttributesAnimator.gif"/></td>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/RotateInOutAttributesAnimator.gif"/></td>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/LinearCardAttributesAnimator.gif"/></td>
+</tr>
+<tr>
+<th>CrossFade</th>
+<th>Cube</th>
+<th>Page</th>
+<th>Move In</th>
+</tr>
+<tr>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/CrossFadeAttributesAnimator.gif"/></td>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/CubeAttributesAnimator.gif"/></td>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/PageAttributesAnimator.gif"/></td>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/PageMoveIn.gif"/></td>
+</tr>
+<tr>
+<th>Move Out</th>
+<th>No animate</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/PageMoveOut.gif"/></td>
+<td><img src="https://github.com/vhikd/AnimatedCollectionViewLayoutObjC/blob/master/gif/no%20animate.gif"/></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
 ## Example
 
 To run the example project, clone the repo, and start `iOS Example` in Xcode.
